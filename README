@@ -1,0 +1,22 @@
+
+TabGroupTemplate for Appcelerator Titanium
+==========================================
+
+This is a basic App Template for Titanium Mobile projects. Includes a tabGroup with 3 tabs and 3 windows using CommonJS modules. 
+
+Is based on CommonJS modules and saves a lot of time creating the initial boilerplate project structure.
+
+All module paths should be declared in ModulePaths.js, so all module paths are isolated from code.
+
+Works in android, iOS and mobile web.
+
+Created with Titanium sdk 2.1
+
+Contact
+=======
+write me to
+javier at criteriastudio dot com
+
+or follow me in twitter: @jrayon
+
+
