@@ -12,6 +12,10 @@ Works in android, iOS and mobile web.
 
 Created with Titanium sdk 2.1
 
+Note that Tools.js, config folder and model folder are not used, but they may be useful in future;
+
+Codestrong.
+
 Contact
 =======
 write me to
